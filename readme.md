@@ -1,7 +1,8 @@
 Setup
-1. install Python v.3.9
-2. install Anaconda https://www.anaconda.com/products/individual
+1. Install Python v.3.9
+2. Install Anaconda https://www.anaconda.com/products/individual
 3. Run command bellow
+
    pip install scikit-build;
    pip install terran;
 
