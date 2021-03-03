@@ -11,7 +11,7 @@ from terran.vis import display_image, vis_faces
 
 threshold = 0.5
 display = True
-imagePath = open_image('https://crowdpiclivestorage.blob.core.windows.net/photos-preview/e76eddc8-149a-41ac-a0fc-59f1e0bff904_preview_desktop.jpg')
+imagePath = open_image('path_to_image')
 faces_in_reference = face_detection(imagePath)
 
 ref_feature = extract_features(imagePath, faces_in_reference[0])
