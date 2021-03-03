@@ -9,5 +9,6 @@
 **How to solve Pytorch problem?**
 https://discuss.pytorch.org/t/importerror-key-already-registered-with-the-same-priority/86271
 
-**How to run? **
+**How to run?**
+
 & path_to_python.exe path_to_main.py
